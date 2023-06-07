@@ -1,4 +1,9 @@
 # Marking it down
+
+- [ ] Turn on heater
+- [ ] Turn that down
+- [x] Cool off
+
 ## Marking it twice
 
 ```javascript
